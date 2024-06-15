@@ -1,0 +1,25 @@
+player
+	| C.txt
+	| Names.txt
+	| Woj
+		| Stat.txt
+			- Vitality Arrmor Dng Special MultiNaLevel
+		| 
+	| Mag.txt
+	itd
+enemi
+	| C.txt
+	| Enemiarchetype.txt //ka¿da nazwa w innej lini
+	| Szkielet
+		| C.txt
+		| Stat.txt
+			- Vitality Arrmor Dng Special MultiNaLevel
+		| Names.txt //ka¿da nazwa w innej lini
+		| Szkielet1
+			| CAttack.txt
+			| Attack.txt 
+				- nazwa
+				- szansa np 90
+				- multi np 110
+		|*ka¿dy przeciwnik w osobnym folderze*
+	| *ka¿dy archetyp w osobnym folderze*
